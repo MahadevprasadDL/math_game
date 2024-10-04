@@ -20,5 +20,5 @@ JavaScript functions could be used to perform calculations, such as adding the t
 
 # Live Demo
 
-Explore the live demo of the application [Here](https://math-game-sigma.vercel.app/)
+<h1>Explore the live demo of the application </h1>[Here](https://math-game-sigma.vercel.app/)
  
