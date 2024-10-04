@@ -17,3 +17,7 @@ JavaScript:
 The JavaScript code could be used to handle user interactions, such as checking the user's answer when they submit the form and updating the score and time remaining.
 JavaScript event listeners could be used to listen for user input, such as when the user clicks on an answer choice or the submit button.
 JavaScript functions could be used to perform calculations, such as adding the time remaining to the user's score when they answer a question correctly.
+
+## Live Demo
+ Explore The live demo of the application here
+ 
